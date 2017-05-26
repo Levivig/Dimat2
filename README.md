@@ -1,4 +1,4 @@
-# Dimat2
+# Diszkrét matematika 2
 
 ## Synopsis
 
